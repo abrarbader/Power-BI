@@ -16,5 +16,3 @@ decision to drive the business forward
 It Gives s insights into location analysis through the examination of
 sales trends.
 
-![image](https://user-images.githubusercontent.com/118165983/213881740-996aa853-fce9-439c-8678-ddfea5750e4b.png)
-![image](https://user-images.githubusercontent.com/118165983/213881754-8e99190d-217a-4a10-bba4-fe858616549c.png)
