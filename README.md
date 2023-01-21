@@ -34,7 +34,7 @@ preferences and Wholesale in general needs more attention.
 time period.
 
 
-### **Recommendations 
+### **Recommendations**
 - Increase the company's online visibility and reach by
 implementing targeted digital marketing campaigns,
 utilizing social media platforms, and offering online
