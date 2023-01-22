@@ -1,5 +1,12 @@
 # Sales & Customer Trends Analysis Using Power BI 
 
+# Introduction 
+The purpose of this report is to present the results of an investigation
+into sales and customer trends using three Power BI dashboards. The
+analysis focused on identifying trends in sales performance,
+understanding customer behavior and sales trends, and examining
+the geographic distribution of sales data.
+
 # Objectives
 - Identify the most successful sales channels
 - Understand the patterns in customer behavior and sales
